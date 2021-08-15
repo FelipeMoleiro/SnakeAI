@@ -2,7 +2,7 @@
 
 Neural network learns to play Snake.
 
-Neural Net has 24 input parameters, for each of the 8 directions it takes the distance to the wall, distance to the snake body and if there is a food in that direction. And it has one dense layer of 32 neurons and 4 output neurons. You can add or remove more layers and neurons by editing the main file, just leave the inputs and outputs with it's original numbers.
+The Neural Net has 24 input parameters, for each of the 8 directions it takes the distance to the wall, distance to the snake body and if there is a food in that direction. The architecture is one dense layer of 32 neurons and 4 output neurons. You can add or remove layers and neurons by editing the main file, just leave the inputs and outputs with it's original numbers.
 
 Here is one evolution of the snakeAI.
 
